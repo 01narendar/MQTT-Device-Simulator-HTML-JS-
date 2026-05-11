@@ -83,6 +83,6 @@ Feel free to **fork**, **modify**, and **experiment** for your own IoT or MQTT t
 ### 🌟 Author
 
 Developed by **ZhadowValker**  
-💻 For learning, testing, and edge IoT simulation scenarios.
+💻 For learning, testing, and edge IoT simulation scenarios....
 
 ---
